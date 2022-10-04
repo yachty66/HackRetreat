@@ -12,4 +12,4 @@ The goal is to meet new peers, enjoying the time of building something, finding 
 
 # How to participate
 
-There is nothing fixed yet. This website serves for figuring out the demand for the HackRetreat. To stay up to date you need to fill out this form.
+To stay up to date you need to fill out this form.
